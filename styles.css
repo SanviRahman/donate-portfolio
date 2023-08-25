@@ -6,26 +6,31 @@
     color:rgb(138, 138, 233);
 } */
 .header{
-    position: relative;
-    padding: 150px;
-    background-image: url('../donate-today/images/donation1.jpg');
-    height: 400px;
-    width: 800px;
-    color: white;
-    text-align: center;
-    margin-left: 200px;
+    margin-top: 40px;
+    padding: 140px;
+    background-color: cornflowerblue;
+    height: 280px;
+    width: 600px;
+    color:white;
+    margin-left: 360px;
 }
-/* Section 1 and div 1 */
-.lorem{
-    font-size: 15px;
-    padding: 15px;
+.font{
+    text-align: center;
+    padding: 40px;
 }
 .btn-primary{
-    border: 10px;
     background-color: #df1010;
     color: white;
     border-radius: 2px;
+    margin-bottom: 50px;
+    margin-left: 250px;
 }
+.lorem{
+    text-align: center;
+    font-size: 15px;
+    padding: 15px;
+}
+/* Section 1 and div 1 */
 .font-size{
     margin-top: 100px;
     margin-bottom: 10px;
