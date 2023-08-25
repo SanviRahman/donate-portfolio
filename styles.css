@@ -17,7 +17,7 @@
 }
 /* Section 1 and div 1 */
 .lorem{
-    font-size: 10px;
+    font-size: 15px;
     padding: 15px;
 }
 .btn-primary{
@@ -33,7 +33,7 @@
     text-align: center;
 }
 .lorem-side{
-    font-size: 12px;
+    font-size: 15px;
     text-align: center;
     margin-bottom: 15px;
 }
@@ -65,11 +65,11 @@
     margin-bottom: 200px;
     background-color: #df1010;
     color: white;
-    border-radius: 2px;
+    border-radius: 5px;
 }
 /* section 2 and div 2 */
 .div2{
-    margin-top: 50px;
+    margin: 100px 100px 100px 100px;
     display: flex;
 }
 #shanto1{
@@ -80,7 +80,58 @@
     margin-bottom: 10px;
 }
 .lorem-side1{
-    font-size: 10px;
+    font-size: 15px;
     text-align: center;
     margin-bottom: 30px;
+}
+.div2-1{
+    background-color: rgb(236, 232, 225);
+    margin: 40px 30px;
+    padding: 40px;
+}
+.font-size2{
+    margin:0px 0px 10px ;
+}
+.div2-2{
+    background-color:rgb(213, 227, 227);
+    margin: 40px 30px;
+    padding: 40px;
+}
+.font-size3{
+    margin:0px 0px 10px ;
+}
+.div2-3{
+    background-color: bisque;
+    margin: 40px 30px;
+    padding: 40px;
+}
+.font-size4{
+    margin:0px 0px 10px ;
+}
+/* Section 3 and div 3 */
+
+.div3{
+    display: flex;
+    margin-top: 100px;
+    margin-left: 300px;
+}
+.div3-1{
+    padding: 10px;
+    margin-top: 150px;
+    margin: 20px 30px;
+} 
+.div3-2{
+    margin-left: 60px;
+    margin-bottom: 20px;
+}
+.lorem-side5{
+    font-size: 15px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+    padding-right:10px; ;
+}
+.btn-primaray_2{
+    background-color: #df1010;
+    color: wheat;
+    border-radius: 5px;
 }
